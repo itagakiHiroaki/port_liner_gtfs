@@ -1,0 +1,5 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,parent_station,wheelchair_boarding
+p07_platform1,医療センター1番線,ポートライナー,34.65856858,135.2163402,https://www.knt-liner.co.jp/station/806/,1,p07,1
+p07_platform2,医療センター2番線,ポートライナー,34.65856858,135.2163402,https://www.knt-liner.co.jp/station/806/,1,p07,1
+p08_platform1,計算科学センター1番線,ポートライナー,34.65566454,135.2212622,https://www.knt-liner.co.jp/station/806/,1,p08,1
+p08_platform2,計算科学センター2番線,ポートライナー,34.65566454,135.2212622,https://www.knt-liner.co.jp/station/806/,1,p08,1

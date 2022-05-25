@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_text_color
+p1,7140001011983_1,神戸空港方面行,ポートライナー　神戸空港方面行,,100,,
+p2,7140001011983_1,三宮方面行,ポートライナー　三宮方面行,,100,,
